@@ -1,0 +1,8 @@
+__pycache__
+chatapp/__pycache__
+chatapp/backend/__pycache__
+chatapp/endpoints/__pycache__
+.env
+.vscode
+storage.py
+./req.py
